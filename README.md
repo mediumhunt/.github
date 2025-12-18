@@ -1,0 +1,2 @@
+# .github
+We're MediumHunt
