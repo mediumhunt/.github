@@ -16,7 +16,7 @@
 
 ### About Us
 
-MediumHunt is your go-to destination for finding and sharing the most interesting, insightful, and impactful articles from Medium.
+MediumHunt is a community-driven platform that curates and showcases the most interesting, insightful, and impactful articles from Medium, making it easier for readers to discover quality content.
 
 ### 🌟 What We Do
 
